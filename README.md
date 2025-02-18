@@ -1,4 +1,4 @@
-# **Stock Price Prediction using LSTM Architecture**
+# **Time Series Stock Price Prediction using LSTM Model**
 
 ## Table of Contents
 - [Project Overview](#project-overview)
